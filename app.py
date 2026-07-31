@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 
-import sklearn
+
 import joblib
 
 st.title("movie Recommmendation System")

@@ -1,6 +1,6 @@
 import streamlit as st
 import pickle
-import nltk
+
 import sklearn
 import joblib
 
